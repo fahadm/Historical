@@ -1,0 +1,313 @@
+# depslib dependency file v1.0
+1275832275 source:c:\documents and settings\administrator\my documents\new folder\page flipping.cpp
+	<allegro.h>
+	"version.h"
+
+1275832242 c:\documents and settings\administrator\my documents\new folder\version.h
+
+1275197032 source:c:\documents and settings\administrator\my documents\new folder\pacman.rc
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/alpspcfg.h"
+	"allegro/platform/astdint.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\alplatf.h
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\alosxcfg.h
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro/platform/alunixac.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\alpspcfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\unicode.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\config.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\debug.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\mouse.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\timer.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\keyboard.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\joystick.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\palette.h
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\fixed.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\al386gcc.h
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\al386vc.h
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\platform\al386wat.h
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\inline\color.inl
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\compiled.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\text.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\font.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\gui.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\digi.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\stream.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\midi.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\file.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\lzss.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\datafile.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\inline\matrix.inl
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\quat.h
+	"base.h"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\inline\3dmaths.inl
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\alcompat.h
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1272201109 c:\program files\code blocks 6287\allegro\allegro\inline\fix.inl
+
+1307197104 source:d:\git\new folder on fahad (192.168.1.19)\page flipping.cpp
+	<allegro.h>
+	<stdio.h>
+	"version.h"
+
+1307197113 d:\git\new folder on fahad (192.168.1.19)\version.h
+
+1275197032 source:d:\git\new folder on fahad (192.168.1.19)\pacman.rc
+
